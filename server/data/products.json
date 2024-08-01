@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Dining Table",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Oak",
+    "price": 599.99,
+    "tags": ["Featured", 1]
+  },
+  {
+    "id": 2,
+    "name": "Modern Dining Chair",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Walnut",
+    "price": 129.99,
+    "tags": [1] 
+  },
+  {
+    "id": 3,
+    "name": "Rustic Picnic Table",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Cedar",
+    "price": 349.99,
+    "tags": ["Featured", 2]
+  },
+  {
+    "id": 4,
+    "name": "Minimalist Desk",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Birch",
+    "price": 299.99,
+    "tags": ["Featured", 3]
+  },
+  {
+    "id": 5,
+    "name": "Elegant Chest of Drawers",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Mahogany",
+    "price": 799.99,
+    "tags": ["Featured", 4]
+  },
+  {
+    "id": 6,
+    "name": "Another Dining Table",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Pine",
+    "price": 450.00,
+    "tags": [1] 
+  },
+  {
+    "id": 7,
+    "name": "Comfortable Dining Chair",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Oak",
+    "price": 99.99,
+    "tags": [1] 
+  },
+  {
+    "id": 8,
+    "name": "Outdoor Picnic Table",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Teak",
+    "price": 499.99,
+    "tags": [2] 
+  },
+  {
+    "id": 9,
+    "name": "Compact Desk",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Maple",
+    "price": 199.99,
+    "tags": [3] 
+  },
+  {
+    "id": 10,
+    "name": "Bedside Table",
+    "image": "https://via.placeholder.com/300",
+    "woodType": "Cherry",
+    "price": 249.99,
+    "tags": [4] 
+  }
+]
